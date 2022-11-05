@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, 👋 I am Rodrigo Vieira - FullStack Web Developer
+
+I am fascinated by the Web area and everything that involves the Internet and its technologies.
+I started in 2010 studying the PHP programming language and followed the path of web development ever since.
+In addition to studying a lot about Front-end and Back-end, I am also very interested in Cybersecurity, DevOps and Data Science.
+
+I am developing a Full-Stack Framework in PHP which I intend to release soon under MIT license.
+I have also contributed to the [Quasar Framework](https://github.com/quasarframework/quasar/issues?q=is%3Aissue+author%3Arodrigoslayertech+is%3Aclosed) source code since 2017, with some Issues and Pull Requests already submitted.
 
 ![image](https://www.codewars.com/users/rodrigoslayertech/badges/large)
 
