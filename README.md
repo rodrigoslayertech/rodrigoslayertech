@@ -14,9 +14,6 @@ Social:
   <a href="https://www.linkedin.com/in/rodrigoslayertech/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
-  <a href="mailto:rodrigo@slayer.tech">
-    <img src="https://img.shields.io/static/v1?message=E-mail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Email"  />
-  </a>
 </div>
 
 <!--
