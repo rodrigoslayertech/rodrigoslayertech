@@ -7,6 +7,8 @@ On top of my studies in Front-end and Back-end, I am also very interested in Cyb
 I am currently developing a Full-Stack Framework in PHP, which I intend to release soon under MIT license.
 I have also been a frequent contributor to the [Quasar Framework](https://github.com/quasarframework/quasar/issues?q=is%3Aissue+author%3Arodrigoslayertech+is%3Aclosed) source code since 2017, having submitted several Issues and Pull Requests.
 
+I consider myself very creative, analytical and perfectionist and I like to maintain transparency in my work, bringing the maximum of technologies with the most modern in the market.
+
 ![image](https://www.codewars.com/users/rodrigoslayertech/badges/large)
 
 Social:
