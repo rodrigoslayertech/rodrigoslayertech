@@ -9,8 +9,6 @@ I have also been a frequent contributor to the [Quasar Framework](https://github
 
 I consider myself very creative, analytical and perfectionist and I like to maintain transparency in my work, bringing the maximum of technologies with the most modern in the market.
 
-![image](https://www.codewars.com/users/rodrigoslayertech/badges/large)
-
 Social:
 <div align="left">
   <a href="https://www.linkedin.com/in/rodrigoslayertech/">
