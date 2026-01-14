@@ -14,6 +14,9 @@ Social:
   <a href="https://www.linkedin.com/in/rodrigoslayertech/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
+  <a href="https://www.instagram.com/rodrigo.vieira92/">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
+  </a>
 </div>
 
 <!--
